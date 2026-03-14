@@ -29,7 +29,7 @@
 - `Анализ_IT_вакансий_с_ИИ_навыками` — основной ноутбук с полным анализом и визуализациями.
 
 ## 🔗 Источник данных для проекта
-- Датасет вакансий с hh.ru за 2022-2024 гг.[(https://drive.google.com/drive/folders/1GGhYiJdR_DYtxGFb3SwKlQJDSNLfGBSJ?hl=ru)].
+- Датасет вакансий с hh.ru за 2022-2024 гг.[Скачать датасет с Google Диска](https://drive.google.com/drive/folders/1GGhYiJdR_DYtxGFb3SwKlQJDSNLfGBSJ?hl=ru).
 - Для запуска ноутбука скачайте файл и поместите его в ту же папку.
 
 ## ⚠️ Ограничения
